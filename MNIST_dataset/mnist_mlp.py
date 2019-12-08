@@ -5,7 +5,7 @@ from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense, Dropout
 from tensorflow.keras.optimizers import RMSprop
 
-# This is copy from https://github.com/keras-team/keras/blob/master/examples/mnist_mlp.py
+# This references from https://github.com/keras-team/keras/blob/master/examples/mnist_mlp.py
 # 这个主要是记录一下重新学 Keras 的点点滴滴。
 
 # print(tf.__version__)
